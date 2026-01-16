@@ -40,7 +40,7 @@ function App() {
     {
       title: "TLE 2 - Natuurmoment",
       description: "NatuurMoment is een interactief groepsspel dat iedereen samen door een natuurgebied laat bewegen. Met hun telefoon als gids, en de natuur als speelveld. Spelers spelen fotobingo tijdens een wandelroute. De host/organisator kan deze foto's goedkeuren en de spelers krijgen hier punten voor. Degende met de meeste punten wint aan het eind van de wandelroute.",
-      pros: ["",],
+      pros: ["Ik heb erg veel gecodeerd tijdens dit project, haast alle functionaliteit van de bingo zelf", "We lagen tijdens dit project heel erg op 1 lijn, dit zorgde voor weinig conflicten",],
       cons: ["",],
       goalsReflection: ""
     }
