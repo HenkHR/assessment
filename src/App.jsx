@@ -33,9 +33,9 @@ function App() {
     {
       title: "TLE 1 - Yshelf",
       description: "De Yshelf is een webapp voor een doelgroep van lezers die graag een digitale collectie wilden bijhouden van hun boeken. Deze konden ze dan sorteren op status (gelezen, gestopt, te lezen, favoriet). En konden ze deze delen met vrienden/volgers.",
-      pros: ["Tijdens dit project ben ik bezig geweest met de API van openAI en google books. Dit was een leerzame ervaring.",],
-      cons: ["",],
-      goalsReflection: ""
+      pros: ["Tijdens dit project ben ik bezig geweest met de API van openAI en google books. Dit was een leerzame ervaring.", "Tijdens dit project heb ik veel gecodeerd, veel grote taken op me genomen", "Na de eerste week nam ik een wat meer leidinggevende rol op me en probeerde ik overzicht te creeeren voor iedereen."],
+      cons: ["Ik heb veel thuis moeten doen omdat ik teveel op me nam", "In de eerste week nam iemand anders de leiding en gaf ik heel weining input", "Communcatie had beter gemoeten om overzicht te behouden, zo hoefde ik me ook niet overal mee te bemoeien", "We waren niet concreet genoeg in wat we wilden testen en wat hiervoor gebouwd moest worden."],
+      goalsReflection: "Mijn doelstelling na dit project was om meer bezig te zijn het opzetten van het concept en hierin meer input te geven. Zo hoopte ik zelf wat meer baat te hebben bij het resultaat wat we neerzetten \n Ook wilde ik me meer gaan richten op communicatie, Zo blijft er overzicht en hoef ik me niet overal mee te bemoeien. Hiermee hoop ik ook mijn eigen workload te verminderen"
     },
     {
       title: "TLE 2 - Natuurmoment",
