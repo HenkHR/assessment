@@ -40,23 +40,23 @@ function App() {
     {
       title: "TLE 2 - Natuurmoment",
       description: "NatuurMoment is een interactief groepsspel dat iedereen samen door een natuurgebied laat bewegen. Met hun telefoon als gids, en de natuur als speelveld. Spelers spelen fotobingo tijdens een wandelroute. De host/organisator kan deze foto's goedkeuren en de spelers krijgen hier punten voor. Degende met de meeste punten wint aan het eind van de wandelroute.",
-      pros: ["Ik heb erg veel gecodeerd tijdens dit project, haast alle functionaliteit van de bingo zelf", "We lagen tijdens dit project heel erg op 1 lijn, dit zorgde voor weinig conflicten",],
-      cons: ["",],
-      goalsReflection: ""
+      pros: ["Ik heb erg veel gecodeerd tijdens dit project, haast alle functionaliteit van de bingo zelf", "We lagen tijdens dit project heel erg op 1 lijn, dit zorgde voor weinig conflicten", "Communicatie was heel goed, we wisten goed wat we van elkaar konden verwachten", "Ik ben tijdens dit project een stuk meer betrokken geweest bij het opzetten van het concept."],
+      cons: ["Soms hadden we wat moeite met afbakenen door onduidelijkheden vanuit de opdrachtgever", "Ik had nog steeds moeite met mezelf niet overal mee bemoeien, dit werd op een gegeven moment gezien als opdringerig",],
+      goalsReflection: "Vergeleken met het eerste project ben ik enorm gegroeid qua werkhouding, vooral qua communicatie en ook qua houding tijdens de ontwerpfase. Ik vond dit project en stuk interessanter dan de vorige en dit was te merken. \n Wel was ik nog steeds teveel bezig met het werk van anderen. Ik had als doelstelling van het vorige project dat ik dit niet meer zou doen maar dit was een beetje mislukt. Ik denk dat dit vooral kwam door mijn enthousiasme. Wel is mijn grote bijdrage nu niet meer te danken aan teveel willen doen uit wantrouwen maar meer uit enthousiasme. De doelstelling waarmee ik dus ook verder wil is nogsteeds mee communiceren, nu vooral zodat ik niet anderen in de gaten hoef te houden maar dat ik door communcatie mezelf op de hoogte houd."
     }
   ];
 
   const bookData = {
     imageSrc: "https://media.s-bol.com/8kxA8p9PNXr/791x1200.jpg", // Replace with your book cover image path
     imageAlt: "Boek cover",
-    title: "",
-    about: "",
-    learned: "",
-    applied: "",
-    futureUse: ""
+    title: "Superintelligence",
+    about: "Superintelligence gaat over de ontwikkeling van AI en hoe dit kan leiden tot een superintelligentie, Het gaat vooral over hoe we met deze superintelligentie om moeten gaan en hoe we moeten doorhebben hoe we deze superintelligentie onder controle moeten houden voordat we hier te laat voor zijn.",
+    learned: "Omdat het boek heel erg gaat over goal alignment kan je dit goed toepassen op een groepsproject, je moet zorgen dat je allemaal op 1 lijn ligt om zo geen andere verwachtingen te hebben van een goed resultaat. Een AI heet geen gevoel voor menselijke normen en waarden, zo kan deze bepaalde problemen heel anders oplossen dan dat wij dat zouden doen. Dit is vaak niet positief. Hetzelfde kan gebeuren binnen een groepsproject, als iemand binnen de groep een hele andere interpretatie heeft van het concept, ga je hele verschillende onderdelen krijgen die niet op elkaar aansluiten. Communciatie is dus erg belangrijk om dit te voorkomen.",
+    applied: "Binnen ons laatste project heb ik niet echt actieve stappen hoeven ondernemen om dit toe te passen. zoals ik al eerder beschreef lagen we vanaf dag 1 al heel erg op 1 lijn. Ook was onze communcatie dusdanig goed dat eventuele onduidelijkheden gelijk verholpen konden worden.",
+    futureUse: "Omdat ik tijdens dit project vergeleken met het eerste project heel goed heb kunnen zien dat de goal alignment erg belangrijk is, zal ik dit in de toekomst proberen toe te passen bij mijn volgende projecten door goed te communiceren met mijn groep en ook vragen te stellen om te pijlen of iedereen op 1 lijn ligt."
   };
 
-  const futurePlansData = "";
+  const futurePlansData = "In de toekomst wil ik vooral mijn enthousiasme voor het bouwen van funtionaliteiten behouden. Waar ik me extra op wil richten is het communceren en samentrekken van onze doelstelling. Dit wil ik doen door erg kritisch te blijven en veel vragen te stellen aan mijn groepsgenoten. Wat ik realistish? Ligt iedereen op 1 lijn? Waarom willen we functionaliteit x toevoegen en is dit het waard? Zo hoop ik toekomstige projecten zo soepel mogelijk te laten verlopen.";
 
   return (
     <div className="min-h-screen bg-white">
